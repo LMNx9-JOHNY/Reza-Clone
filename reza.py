@@ -1,5 +1,9 @@
-#DECOMPILE BY REZA
-#FILE NAME (REZA-DEC)
+# DECOMPILE BY Dark Team LMNx9
+# Script Owner : LIMON HOSSAIN
+# Facebook : Lj.LMNx9
+# Script Gift For All 🥰
+# FILE NAME (LMNx9-DEC)
+
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
