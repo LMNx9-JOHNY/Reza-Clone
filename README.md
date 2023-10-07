@@ -1,3 +1,7 @@
 # Reza-Clone
 # Wish For Reza 😊
-# Though This Script FREE 🥰
+# So This Script FREE & Gift 🥰
+🎁🥰
+🎁🥰
+🎁🥰
+
